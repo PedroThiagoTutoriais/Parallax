@@ -1,0 +1,3 @@
+Olá pessoal! Hoje, vou compartilhar com vocês como criar um efeito parallax impressionante usando apenas CSS. O efeito parallax é uma técnica popular que adiciona profundidade e movimento a páginas da web, tornando a experiência do usuário mais envolvente. Vamos começar!
+
+#html #css #frontend #coding #webdevelopment #webdeveloper #programador #programmer #coding #coder #code #web #website #design #designer #development #developer #webdesign #webdesigner 

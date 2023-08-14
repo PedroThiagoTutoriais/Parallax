@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 100vh;  
+}
+
+.parallax {
+    display: block; /* Uma imagem embaixo da outra */
+    height: 940px;
+    width: 100%;
+    background-size: cover; /* Imagem na proporção da tela */
+    background-attachment: fixed; /* Imagem de fundo ficará fixa */
+    background-position: center; /* Posição Inicial da imagem */
+}
+
+.img-parallax-01 {
+    background-image: url(01.jpg);
+}
+
+.img-parallax-02 {
+    background-image: url(02.jpg);
+}
+
+.img-parallax-03 {
+    background-image: url(03.jpg);
+}
+
+section h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+section p{
+    text-align: justify;
+}
